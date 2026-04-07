@@ -20,6 +20,7 @@ Third-year IT student, interested in DevOps, cloud and automation technologies. 
 #### 🔭 Working on projects:
   1. [Godot game projects](https://github.com/Atamawaru/godotLearningProjects). A collection of small game projects I have created while learning the Godot game engine.
   2. [Unix Processes in C](https://github.com/Atamawaru/Projects_C_Unix_Processes). A collection of small C projects for learning Unix process management.
+  3. [Ata Ls](https://github.com/Atamawaru/ata_ls). A C language reimplementation of Unix `ls` command.
 
 <!--
 **Atamawaru/Atamawaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
